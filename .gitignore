@@ -1,0 +1,8 @@
+
+node_modules/.bin/esbuild
+.devcontainer/devcontainer.json
+node_modules/.bin/nanoid
+node_modules/.bin/rollup
+node_modules/.bin/vite
+testproj/package.json
+testproj/package.json

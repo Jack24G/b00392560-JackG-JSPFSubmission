@@ -1,0 +1,15 @@
+/* Ensure the body and html take up the full viewport */
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  
+  /* Make the canvas fill the entire screen */
+  canvas {
+    display: block; /* Removes default inline behavior */
+    width: 100%;
+    height: 100%;
+  }
