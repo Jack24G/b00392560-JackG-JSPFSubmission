@@ -26,7 +26,9 @@
     "nightvillagebuild": "vite build nightvillage",
     "nightvillagepreview": "vite preview nightvillage --host",
     "sceneswitchbuild": "vite build sceneswitch",
-    "sceneswitchpreview": "vite preview sceneswitch --host"
+    "sceneswitchpreview": "vite preview sceneswitch --host",
+    "gui05build": "vite build gui05",
+    "gui05preview": "vite preview gui05 --host"
   },
   "devDependencies": {
     "@babylonjs/gui": "^7.40.1",
